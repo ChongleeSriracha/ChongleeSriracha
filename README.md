@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Reungnarong
+# 👋 Hello I'm Reungnarong
 
 ## 🚀 About Me
 I'm a passionate software developer currently studying at KMITL (King Mongkut's Institute of Technology Ladkrabang), constantly exploring the world of technology and coding.
