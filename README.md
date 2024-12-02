@@ -64,12 +64,8 @@ I'm a passionate software developer currently studying at KMITL (King Mongkut's 
 ## 📚 Education
 🎓 Student at King Mongkut's Institute of Technology Ladkrabang (KMITL)
 
-## 🔥 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=reungnarongtnc&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reungnarongtnc&layout=compact&theme=radical)
-
 ## 🏆 Achievements & Interests
-- 🌱 Currently exploring full-stack development and cloud technologies
+- 🌱 Currently exploring full-stack development 
 - 🤖 Passionate about innovative software solutions and tech entrepreneurship
 - 💡 Always eager to learn and explore emerging technologies
 - 🚀 Interested in web development, test automation, and database management
